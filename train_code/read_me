@@ -1,0 +1,7 @@
+
+1.run preprocess.ipynb to get crop image and drop non-axial CT images 
+2.run get_slice_range.ipynb to get slice range for each ct case
+3.run 2dcnn_model.ipynb to train 2dcnn model
+4.run get_embedding.ipynb to use 2dcnn weights get embeffing for lstm model and swin_transformer model
+5.run lstm model.ipynb to train lstm model
+6.train swin transformer model
