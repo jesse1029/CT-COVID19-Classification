@@ -1,4 +1,6 @@
 # CT-COVID19-Classification
+
+(The jupyter notebook outputs is only 10 ct cases result,not all test data.)
  
 1. open preprocess.ipynb and chage test_folder_path to your test data folder path
 
