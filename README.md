@@ -1,5 +1,8 @@
 # CT-COVID19-Classification
- 
+
+model_weights:https://drive.google.com/file/d/1Qir1X1VGBybYIrjN3NRwMh0vv839-L3h/view?usp=sharing
+
+
 1. open preprocess.ipynb and chage test_folder_path to your test data folder path
 
 2.run preprocess.ipynb
