@@ -1,0 +1,2 @@
+1.chage 224_embed path that from 2dcnn model: on timm/data/dataset_factory 146
+2.change swin transformer model path: on swin_inference.py 50
